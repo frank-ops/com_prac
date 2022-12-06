@@ -21,3 +21,4 @@ int main()
   cout<<val2;
 
 }
+2
