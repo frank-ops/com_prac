@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-  int arr[100] , n , val1=INT_MIN , val2=INT_MIN ;
+  int arr[100] , n , val1=INT_MIN , val2=INT_MAX;
   cin>> n;
   for(int  i=0 ; i<n ; i++)
     cin>> arr[i];
