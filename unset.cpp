@@ -3,7 +3,7 @@
  int main()
  {
      int pos,n,k;
-     cin>>"enter the number : ";
+     cin>>"enter the number: ";
      cin>>n;
      k=n;
      cin>>pos;
