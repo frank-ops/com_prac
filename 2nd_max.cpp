@@ -17,7 +17,7 @@ int main()
     else if(arr[i]>val2 && arr[i]!=val1)
       val2=arr[i];
   }
-  cout<<"second minimum is : ";
+  cout<<"minimum_2 is : ";
   cout<<val2;
 
 }
