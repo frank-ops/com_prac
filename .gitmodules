@@ -1,0 +1,3 @@
+[submodule "zemoso-training"]
+	path = zemoso-training
+	url = https://github.com/frank-ops/zemoso-training
