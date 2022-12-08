@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
     int pos,n,k;
-    cout<<"complete new one";
+    cout<<"nothing to change";
     cin>>n;
     k=n;
     cin>>pos;
